@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**diegodtsa/diegodtsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=IN%20DEVELOPMENT&color=GREEN&style=for-the-badge)
 
 Here are some ideas to get you started:
 
